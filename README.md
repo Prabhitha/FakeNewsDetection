@@ -21,3 +21,8 @@
 |    Random Forest    | Estimators= 1000, Max_depth= 10 |     0.2733     |     0.2865    |
 |     Random Model    |                -                |       -        |     0.8906    |
 
+
+## Note:<br>
+
+This has been added to my Medium story in the below link.<br>
+https://prabhitha3.medium.com/fake-news-detection-using-machine-learning-models-4475f62c0836
